@@ -1,0 +1,98 @@
+.container
+{
+    height: 500px; 
+  width: 500px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    
+    background-color: rgb(200, 201, 200);
+    /* border:2px solid black; */
+    /* align-content: center; */
+    /* background-color: rgb(172, 172, 172); */
+    
+    height: 30rem;
+    width: auto;
+
+    /* border: 1px solid blue; */
+   
+}
+#box
+{
+   height: 500px;
+   width: auto;
+   /* border: 2px solid black; */
+}
+   
+
+ h2{
+font-size: 40px;
+color: rgb(22, 6, 252);
+}
+
+body{
+    background-image:url("C:\Users\Akshay\Downloads\download.jpg") ;
+    background-image:url(C:\Users\Akshay\Downloads\download.jpg) ;
+}
+#inputfield{
+    width: 14rem;
+    height: 2.0rem;
+    border: 3px solid black;
+    border-radius: 5px;
+    font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: bold;
+    margin-left:48rem;
+    
+}
+
+#p1{
+    /* margin-top: 300px; */
+    margin-left: 10%;
+   
+}
+#p2{
+    /* margin-top: 300px; */
+   margin-left:10%;
+    
+}
+#p3{
+    /* margin-top: 300px; */
+    margin-left: 10%;
+    /* padding-top: 200px; */
+    
+}
+h3{
+    margin-left: 10%;
+    
+}
+
+#todocontainer
+{
+    height: 300px;
+    width: 30%;
+    /* border: 1px solid red; */
+    
+}
+#note
+{
+    height: 40rem;
+    width: 30%;
+    /* border: 1px solid red; */
+    /* position: fixed; */
+    float: left;
+
+}
+.text
+{
+    text-align: center;
+    padding-top: 5rem;
+}
+.button
+{
+    height: 2rem;
+    width: 3rem;
+    color: rgb(12, 12, 12);
+    background-color: burlywood;
+}
